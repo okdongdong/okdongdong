@@ -2,7 +2,7 @@
 # 😝 Okdongdong 
 <div align="center"> 
 
-  [![okdongdong's GitHub stats](https://github-readme-stats.vercel.app/api?username=okdongdong)](https://github.com/okdongdong/github-readme-stats) 
+  [![okdongdong's GitHub stats](https://github-readme-stats.vercel.app/api?username=okdongdong&show_icons=true&theme=blueberry&border_radius=10px)](https://github.com/okdongdong/github-readme-stats) 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jer0618)](https://solved.ac/jer0618)
 
 </div>
